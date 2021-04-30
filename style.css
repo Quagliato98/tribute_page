@@ -17,7 +17,7 @@ html {
 body {
     background-color: #FFF;
     border: 1px solid rgba(247, 49, 108);
-    box-shadow: 0 20px 60px rgba(247, 49, 108, 0.9);
+    box-shadow: 0 20px 60px rgba(225, 57, 91, 0.9);
     border-radius: 0.5rem;
     font-family:'Roboto', sans-serif;
 }
