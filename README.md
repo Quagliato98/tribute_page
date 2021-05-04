@@ -5,7 +5,6 @@
 </p>
 
 ## 🧐 Sobre
----
 <p>
     Página de tributo ao Maroon 5 feita em HTML e CSS. O principal objetivo não foi de reunir várias informações importantes sobre a banda, mas colocar em prática o que foi visto no curso <a href="https://www.freecodecamp.org/learn/responsive-web-design">"Responsive Web Design Certification"</a> seguindo os <a href="https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page"> #User Stories</a>. Você pode querer ver o projeto pronto clicando <a href="https://quagliato98.github.io/tribute_page/">aqui</a>.
 </p>
@@ -13,7 +12,6 @@
 <br>
 
 ## 🧐 Principais Conhecimentos Adquiridos
----
 <p>
     • Melhor estruturação do HTML<br>
     • Maior facilidade do uso do Flexbox<br>
